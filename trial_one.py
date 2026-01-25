@@ -89,10 +89,3 @@ if __name__ == "__main__":
 
     accuracy = accuracy_score(y_test, y_pred)
     print(f'Accuracy: {accuracy * 100:.2f}%')
-
-
-
-
-
-
-
