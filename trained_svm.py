@@ -11,9 +11,9 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
 
-# ==========================
+# ===========================
 # CONFIG
-# ==========================
+# ===========================
 PDB_FOLDER = "/home/lenovo555/protein_project/pdbs"  # Change path if needed
 CHAIN_ID = "A"
 MIN_LEN = 30

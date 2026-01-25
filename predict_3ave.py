@@ -7,9 +7,9 @@ from Bio.PDB import PDBParser
 from Bio.PDB.DSSP import DSSP
 from Bio.SeqUtils import seq1
 
-# --------------------------
+# ---------------------------
 # CONFIG
-# --------------------------
+# ---------------------------
 MODEL_PATH = "svm_q3_model.pkl"
 PDB_PATH = "3ave.pdb"
 CHAIN_ID = "A"
